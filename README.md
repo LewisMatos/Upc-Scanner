@@ -1,12 +1,10 @@
 # Upc-Scanner
+    Upc Scanner in react native. Included UPC API. 
 
 # Tested on android
+- npm install
+- react-native run-android
 
-## Run local dev env on android
-
-# react-native run-android
-
-
-# Add upc codes to API
-
+# API
+# username: Test, pw: Passw0rd!
 # [https://d1virq3is1td1k.cloudfront.net/]
